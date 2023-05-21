@@ -1,9 +1,9 @@
 # Stochastic-Climate-Model
 This repo shares the code accomplished simulation of an idealized climate model with spatiotemporal stochastic clouds and planetary-scale circulation, which illustrates study of climate-change problems, changes in cloud cluster statistics, Walker circulations and extreme rainfall events.
 
-# Contains
-- `SH23_FORTRAN.zip`: Fortran codes that simulating model SH23 and generating outputs file.
-- `SH23_MATLAB.zip`: Matlab codes that collecting all output data and visualizing data by plotting various figures. 
+# Contains (branches)
+- `FORTRAN`: Fortran codes that simulating model SH23 and generating outputs file.
+- `MATLAB`: Matlab codes that collecting all output data and visualizing data by plotting various figures. 
 
 # Reference
 This program is based on author's reseach publicated on Phys Rev Fluids [reference](https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.7.010502), one can seek for the details of model descriptions and numerical setup in above link.
