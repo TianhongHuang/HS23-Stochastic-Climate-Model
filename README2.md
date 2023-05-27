@@ -1,5 +1,5 @@
 # Introduction
-1.1: this code accomplished simulation of an idealized climate mode named with 'SH23', which describs numerical simulations of stochastic partial differential equations for extreme rainfall, large-scale circulations and climate change. 
+1.1: this code accomplished simulations of an idealized climate mode named with 'SH23', which describs numerical simulations of stochastic partial differential equations for extreme rainfall, large-scale circulations and climate change. 
 1.2: the numerical method used for simulating model SH23 is the operator splitting method.
 1.3: the computer code is written in the Fortran programming language with being parallelized using message passing interface (MPI).
 1.4: the parallel package used here is build on `EZ_PARALLEL` [distribution](https://github.com/jasonlturner/EZ_PARALLEL_project)
